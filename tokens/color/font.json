@@ -1,0 +1,9 @@
+{
+  "color": {
+    "font": {
+      "base"     : { "value": "{blue.9.value}" },
+      "secondary": { "value": "{green.0.value}" },
+      "tertiary" : { "value": "{neutral.0.value}" }
+    }
+  }
+}

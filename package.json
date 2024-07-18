@@ -1,0 +1,22 @@
+{
+  "name": "excelsior-design-tokens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ITS-HCD/excelsior-design-tokens.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ITS-HCD/excelsior-design-tokens/issues"
+  },
+  "homepage": "https://github.com/ITS-HCD/excelsior-design-tokens#readme",
+  "dependencies": {
+    "style-dictionary": "^4.0.0"
+  }
+}
